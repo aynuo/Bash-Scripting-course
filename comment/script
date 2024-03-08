@@ -1,0 +1,15 @@
+#!/bin/bash
+ 
+# Author: Aynuo 
+# Date Created: 3/8/2024 
+# Last Modified: 3/8/2024
+
+# Description 
+# Prints "This is my first script" to the terminal 
+ 
+# Usage 
+# our_first_scriptl
+ 
+echo "Hello world"
+echo "This is my first script" 
+exit 0  
