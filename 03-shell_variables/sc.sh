@@ -17,5 +17,13 @@ echo $USER
 echo "------------------------------------------------------"
 
 # HOSTNAME: the name of the current computer
+echo "------------------------------------------------------"
+echo $HOSTNAME
+echo "------------------------------------------------------"
+
+# HOSTTYPE: what type of processor architecture the computer is running.
+echo "------------------------------------------------------"
+echo $HOSTTYPE
+echo "------------------------------------------------------"
 
 exit 0
